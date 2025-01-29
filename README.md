@@ -11,6 +11,18 @@ Viloader is a powerful and easy-to-use video downloader for Instagram and TikTok
 - Fast download speed
 - No login required
 
+## ⚙ Tech Stack
+
+- SvelteKit
+- Typescript
+- Vite
+
+## 👁 Preview
+| Home Page | Download Page |
+| --- | --- |
+| ![Landing Page](https://github.com/user-attachments/assets/2c4a8d7e-4f73-45bc-8b15-dfd131edc2ab) | ![Download Page](https://github.com/user-attachments/assets/a24826d4-a16f-4c1b-bb47-d8fffb2c8913) |
+
+
 ## 👩‍💻 Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:

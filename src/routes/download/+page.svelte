@@ -1,6 +1,6 @@
 <script lang="ts">
   import {copyToClipboard} from "$lib/copyToClipboard";
-  import { source } from "$lib/index.svelte";
+  import { source } from "$lib/appState.svelte.js";
   $inspect(source).with(console.trace);
   import { goto } from "$app/navigation";
   if (source.src === "") {
